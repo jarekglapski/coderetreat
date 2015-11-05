@@ -2,395 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa8b02b5-b82e-4e20-b7a3-95a94940eb21" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\retreat_gem\README.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\retreat_gem\bin\retreat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\retreat_gem\lib\coderetreat\retreat.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\retreat_gem\retreat.gemspec" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\clojure\lein\conways\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\clojure\lein\conways\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\clojure\lein\conways\project.clj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\clojure\lein\conways\src\conways\core.clj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\clojure\lein\conways\test\conways\test\core.clj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\coffeescript\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\coffeescript\coderetreat.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\coffeescript\coderetreat.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\coffeescript\coderetreatTest.coffee" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\Readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\CHANGES" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\CONTRIBUTORS" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\COPYING" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\aclocal.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\build-aux\config.guess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\build-aux\config.h.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\build-aux\config.sub" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\build-aux\depcomp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\build-aux\install-sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\build-aux\ltmain.sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\build-aux\missing" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\configure" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\configure.ac" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\fused-src\gmock-gtest-all.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\fused-src\gmock\gmock.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\fused-src\gmock_main.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\fused-src\gtest\gtest.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\CHANGES" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\CONTRIBUTORS" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\COPYING" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\aclocal.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\build-aux\config.guess" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\build-aux\config.h.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\build-aux\config.sub" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\build-aux\depcomp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\build-aux\install-sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\build-aux\ltmain.sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\build-aux\missing" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\cmake\internal_utils.cmake" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\codegear\gtest.cbproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\codegear\gtest.groupproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\codegear\gtest_all.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\codegear\gtest_link.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\codegear\gtest_main.cbproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\codegear\gtest_unittest.cbproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\configure" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\configure.ac" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\fused-src\gtest\gtest-all.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\fused-src\gtest\gtest.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\fused-src\gtest\gtest_main.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest-death-test.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest-message.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest-param-test.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest-param-test.h.pump" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest-printers.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest-spi.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest-test-part.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest-typed-test.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest_pred_impl.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\gtest_prod.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-death-test-internal.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-filepath.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-internal.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-linked_ptr.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-param-util-generated.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-param-util-generated.h.pump" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-param-util.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-port.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-string.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-tuple.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-tuple.h.pump" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-type-util.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\include\gtest\internal\gtest-type-util.h.pump" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\m4\acx_pthread.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\m4\gtest.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\m4\libtool.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\m4\ltoptions.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\m4\ltsugar.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\m4\ltversion.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\m4\lt~obsolete.m4" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\make\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\msvc\gtest-md.sln" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\msvc\gtest-md.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\msvc\gtest.sln" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\msvc\gtest.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\msvc\gtest_main-md.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\msvc\gtest_main.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\msvc\gtest_prod_test-md.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\msvc\gtest_prod_test.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\msvc\gtest_unittest-md.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\msvc\gtest_unittest.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\prime_tables.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample1.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample1.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample10_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample1_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample2.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample2.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample2_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample3-inl.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample3_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample4.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample4.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample4_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample5_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample6_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample7_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample8_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\samples\sample9_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\scripts\fuse_gtest_files.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\scripts\gen_gtest_pred_impl.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\scripts\gtest-config.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\scripts\pump.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\scripts\test\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\src\gtest-all.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\src\gtest-death-test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\src\gtest-filepath.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\src\gtest-internal-inl.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\src\gtest-port.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\src\gtest-printers.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\src\gtest-test-part.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\src\gtest-typed-test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\src\gtest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\src\gtest_main.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-death-test_ex_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-death-test_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-filepath_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-linked_ptr_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-listener_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-message_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-options_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-param-test2_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-param-test_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-param-test_test.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-port_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-printers_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-test-part_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-tuple_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-typed-test2_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-typed-test_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-typed-test_test.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest-unittest-api_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_all_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_break_on_failure_unittest.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_break_on_failure_unittest_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_catch_exceptions_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_catch_exceptions_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_color_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_color_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_env_var_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_env_var_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_environment_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_filter_unittest.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_filter_unittest_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_help_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_help_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_list_tests_unittest.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_list_tests_unittest_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_main_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_no_test_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_output_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_output_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_output_test_golden_lin.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_pred_impl_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_prod_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_repeat_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_shuffle_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_shuffle_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_sole_header_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_stress_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_test_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_throw_on_failure_ex_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_throw_on_failure_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_throw_on_failure_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_uninitialized_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_uninitialized_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_unittest.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_xml_outfile1_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_xml_outfile2_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_xml_outfiles_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_xml_output_unittest.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_xml_output_unittest_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\gtest_xml_test_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\production.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\test\production.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Config\DebugProject.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Config\FrameworkTarget.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Config\General.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Config\ReleaseProject.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Config\StaticLibraryTarget.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Config\TestTarget.xcconfig" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Resources\Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Samples\FrameworkSample\Info.plist" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Samples\FrameworkSample\WidgetFramework.xcodeproj\project.pbxproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Samples\FrameworkSample\runtests.sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Samples\FrameworkSample\widget.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Samples\FrameworkSample\widget.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Samples\FrameworkSample\widget_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Scripts\runtests.sh" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\Scripts\versiongenerate.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\gtest\xcode\gtest.xcodeproj\project.pbxproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-actions.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-cardinalities.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-generated-actions.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-generated-actions.h.pump" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-generated-function-mockers.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-generated-function-mockers.h.pump" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-generated-matchers.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-generated-matchers.h.pump" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-generated-nice-strict.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-generated-nice-strict.h.pump" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-matchers.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-more-actions.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock-spec-builders.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\gmock.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\internal\gmock-generated-internal-utils.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\internal\gmock-generated-internal-utils.h.pump" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\internal\gmock-internal-utils.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\include\gmock\internal\gmock-port.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\make\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\msvc\2005\gmock.sln" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\msvc\2005\gmock.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\msvc\2005\gmock_config.vsprops" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\msvc\2005\gmock_main.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\msvc\2005\gmock_test.vcproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\msvc\2010\gmock.sln" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\msvc\2010\gmock.vcxproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\msvc\2010\gmock_config.props" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\msvc\2010\gmock_main.vcxproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\msvc\2010\gmock_test.vcxproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\fuse_gmock_files.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\generator\COPYING" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\generator\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\generator\README.cppclean" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\generator\cpp\__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\generator\cpp\ast.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\generator\cpp\gmock_class.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\generator\cpp\keywords.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\generator\cpp\tokenize.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\generator\cpp\utils.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\generator\gmock_gen.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\scripts\gmock-config.in" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\src\gmock-all.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\src\gmock-cardinalities.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\src\gmock-internal-utils.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\src\gmock-matchers.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\src\gmock-spec-builders.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\src\gmock.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\src\gmock_main.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-actions_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-cardinalities_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-generated-actions_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-generated-function-mockers_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-generated-internal-utils_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-generated-matchers_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-internal-utils_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-matchers_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-more-actions_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-nice-strict_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-port_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock-spec-builders_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_all_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_leak_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_leak_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_link2_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_link_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_link_test.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_output_test.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_output_test_.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_output_test_golden.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\gmock-1.6.0\test\gmock_test_utils.py" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\src\CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\src\GameOfLife.h" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\src\examples.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\cplusplus\cmake\src\test_GameOfLife.cpp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\csharp\linqpad\BDD Examples.linq" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\csharp\linqpad\GameOfLife.linq" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\csharp\linqpad\README.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\csharp\linqpad\TDD Examples.linq" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\csharp\vs2012\GameOfLife.csproj" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\csharp\vs2012\GameOfLifeTests.cs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\csharp\vs2012\Properties\AssemblyInfo.cs" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\csharp\vs2012\vs2012.sln" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\erlang\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\erlang\README" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\erlang\rebar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\erlang\src\game_of_life.app.src" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\erlang\src\game_of_life.erl" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\erlang\test\game_of_life_test.erl" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\ant.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\dictionaries\mark.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\libraries\Maven__junit_junit_dep_4_10.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\libraries\Maven__org_codehaus_groovy_groovy_all_2_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\libraries\Maven__org_spockframework_spock_core_0_7_groovy_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\coderetreat.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\groovy\src\test\groovy\com\coderetreat\GameOfLifeTest.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\intercal\readme.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.idea\ant.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\lib\junit-4.8.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\src\main\java\com\coderetreat\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\javascript\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\javascript\coderetreat.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\javascript\coderetreat.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\javascript\coderetreatTest.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\lisp\game-of-life-test.lisp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\lisp\game-of-life.lisp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\lisp\lisp-unit.lisp" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\php\phpunit.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\php\src\GameOfLife.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\php\test\GameOfLifeTest.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\ruby\lib\conways.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\ruby\spec\conways_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\ruby\spec\spec_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\ruby\test\test_conways.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\ruby\test\test_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.classpath" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\libraries\scala_compiler_2_9_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\libraries\scala_library_2_9_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.project" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\README.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\lib\scalatest_2.9.0-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\lib\specs-1.4.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\project\build.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\project\plugins\build.sbt" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\src.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\src\test\scala\com\coderetreat\GameOfLifeSpec.scala" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.classpath" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.idea\.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.idea\misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.idea\modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.idea\workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.project" afterPath="$PROJECT_DIR$/.project" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.settings\org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.settings\org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\.settings\org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\conways-game-of-life-java.iml" afterPath="$PROJECT_DIR$/conways-game-of-life-java.iml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\lib\fest-assert-1.4.jar" afterPath="$PROJECT_DIR$/lib/fest-assert-1.4.jar" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\lib\fest-util-1.1.6.jar" afterPath="$PROJECT_DIR$/lib/fest-util-1.1.6.jar" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\lib\mockito-all-1.8.5.jar" afterPath="$PROJECT_DIR$/lib/mockito-all-1.8.5.jar" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\java\src\test\java\com\coderetreat\GameOfLifeTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/coderetreat/GameOfLifeTest.java" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\copyright\profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\uiDesigner.xml" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\.idea\vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\lib\junit-4.8.2.jar" afterPath="$PROJECT_DIR$/lib/junit-4.8.2.jar" />
-      <change type="MOVED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\starting_points\scala\src\main\scala\com\coderetreat\.gitignore" afterPath="$PROJECT_DIR$/src/main/java/com/coderetreat/.gitignore" />
+      <change type="DELETED" beforePath="C:\Users\jaroslaw_glapski@epam.com\IdeaProjects\coderetreat\README.rdoc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coderetreat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -410,28 +23,7 @@
     <favorites_list name="coderetreat" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.rdoc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.rdoc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -461,7 +53,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Changed Files" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -690,6 +282,13 @@
       <option name="number" value="Default" />
       <updated>1446740417788</updated>
     </task>
+    <task id="LOCAL-00001" summary="useless files deleted">
+      <created>1446740990085</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1446740990085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -698,6 +297,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -723,20 +323,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="useless files deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="useless files deleted" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.classpath">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.rdoc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
