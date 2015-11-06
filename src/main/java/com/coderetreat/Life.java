@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Life {
+
     public static void show(boolean[][] grid) {
         cls();
         String s = "";
@@ -29,27 +30,32 @@ public class Life {
 
     public static void main(String[] args) {
         boolean[][] world = gen();
+        int[] stayAlive = new int[2];
+        stayAlive[0] = 2;
+        stayAlive[1] = 3;
+
+        int[] birthNew = new int[1];
+        birthNew[0] = 3;
+
         show(world);
         System.out.println();
-        world = nextGen(world);
+        world = nextGen(world, stayAlive, birthNew);
         show(world);
         Scanner s = new Scanner(System.in);
         while (s.nextLine().length() == 0) {
             System.out.println();
-            world = nextGen(world);
+            world = nextGen(world, stayAlive, birthNew);
             show(world);
         }
     }
 
-    public static boolean[][] nextGen(boolean[][] world) {
+    public static boolean[][] nextGen(boolean[][] world, int[] stayAlive, int[] birthNew) {
         boolean[][] newWorld
                 = new boolean[world.length][world[0].length];
         int num;
         for (int r = 0; r < world.length; r++) {
             for (int c = 0; c < world[0].length; c++) {
-                num = numNeighbors(world, r, c);
-                if (occupiedNext(num, world[r][c]))
-                    newWorld[r][c] = true;
+                newWorld[r][c] = nextCellState(world, r, c, stayAlive, birthNew);
             }
         }
         return newWorld;
@@ -72,6 +78,17 @@ public class Life {
                     num++;
 
         return num;
+    }
+
+    private static boolean nextCellState(boolean[][] world, int row, int col, int[] stayAlive, int[] birthNew) {
+        int count = numNeighbors(world, row, col);
+        int rules[] = world[row][col] ? stayAlive : birthNew;
+        for (int rule : rules) {
+            if (rule == count) {
+                return true;
+            }
+        }
+        return false;
     }
 
     private static boolean inbounds(boolean[][] world, int r, int c) {
